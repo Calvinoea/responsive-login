@@ -1,4 +1,4 @@
 # responsive-login
 
-![screenshot](./img/screenshot.png)
-![screenshot](./img/screenshottwo.png)
+![screenshot](.Loginform/img/screenshot.png)
+![screenshot](.Loginform/img/screenshottwo.png)
